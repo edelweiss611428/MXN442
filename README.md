@@ -8,11 +8,11 @@ This Github repository stores the code, data, and results of the study, submitte
 
 ### References
 
-[Mira, A., Solgi, R. and Imparato, D., 2013. Zero variance markov chain monte carlo for bayesian estimators. Statistics and Computing, 23, pp.653-662.]([https://www.sciencedirect.com/science/article/abs/pii/S0167947321000244](https://link.springer.com/article/10.1007/s11222-012-9344-6))
+[Mira, A., Solgi, R. and Imparato, D., 2013. Zero variance markov chain monte carlo for bayesian estimators. Statistics and Computing, 23, pp.653-662.](https://link.springer.com/article/10.1007/s11222-012-9344-6)
 
-[South, L.F., Oates, C.J., Mira, A. and Drovandi, C., 2018. Regularized Zero-Variance Control Variates. arXiv preprint arXiv:1811.05073.]([https://www.tandfonline.com/doi/abs/10.1080/0094965031000136012](https://arxiv.org/abs/1811.05073))
+[South, L.F., Oates, C.J., Mira, A. and Drovandi, C., 2018. Regularized Zero-Variance Control Variates. arXiv preprint arXiv:1811.05073.](https://arxiv.org/abs/1811.05073)
 
-[Argyriou, A., Evgeniou, T. and Pontil, M., 2008. Convex multi-task feature learning. Machine learning, 73, pp.243-272.]([https://arxiv.org/abs/1910.08644](https://link.springer.com/article/10.1007/s10994-007-5040-8))
+[Argyriou, A., Evgeniou, T. and Pontil, M., 2008. Convex multi-task feature learning. Machine learning, 73, pp.243-272.](https://link.springer.com/article/10.1007/s10994-007-5040-8)
 
 ### Information about the repository
 
