@@ -7,7 +7,7 @@ source("./code/regularisedZVCV.R")
 diamonds_data = fromJSON(file="./data/diamonds.json")
 diamonds_mod = stan_model(file = "./models/diamonds.stan")
 
-nexps = 25
+nexps = 100
 niter = 1250
 nwarmup = 1000
 nchain = 1
