@@ -14,7 +14,7 @@ This Github repository stores the code, data, and results of the study, submitte
 
 [Argyriou, A., Evgeniou, T. and Pontil, M., 2008. Convex multi-task feature learning. Machine learning, 73, pp.243-272.](https://link.springer.com/article/10.1007/s10994-007-5040-8)
 
-### Information about the repository
+### Usage
 
 The repository hosts an R project, consisting of five main working folders:
 
