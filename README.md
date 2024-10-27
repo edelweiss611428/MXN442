@@ -4,7 +4,7 @@ Constructing Zero-Variance Control Variates following the schemes in Mira et al.
 
 Often, there are more than one (T) expectation term to be estimated, and these tasks might be related. However, the previously mentioned ZVCV methods solve the T regression problems separately (i.e., in a single-task fashion). We have proposed a multitask regularised ZVCV framework based on ℓ2,1-norm regularisation, which may help capture the task relatedness by enforcing group sparcity. It implicitly assumes that the T tasks are related. We expect that the statistical efficiency of the single-task regularised ZVCV methods will be improved in a multi-task learning framework.
 
-This Github repository stores the code, data, and results of the study, submitted as part of the MXN442 project. Multiple seeds were set to make the results in this project reproducible.
+This Github repository stores the code, data, and results of the study, submitted as part of the MXN442 project. Multiple seeds were set to make the results in this project reproducible. Note that it could take quite a long time to run the code.
 
 ### References
 
@@ -23,5 +23,5 @@ Users should be able to run the code without additional effort as all required l
 - renv: where we store the installed package.
 - data: where we store the required data in json format.
 - model: where we store Stan code for the models in the simulation study.
-- results: where we store the simulation study results for the three experiments in the simulation study. note that the results for the experiment1 are not available at 11:26 27/10/2024 due to being deleted accidentally (rm(list = ls()) and will be recovered soon.
+- results: where we store the simulation study results for the three experiments in the simulation study, including the Stan models, runtimes, and estimated values. Note that the results for the experiment1 are not available at 11:26 27/10/2024 due to being deleted accidentally (rm(list = ls()) and will be recovered soon.
 
