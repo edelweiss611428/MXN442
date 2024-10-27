@@ -1,4 +1,4 @@
-# rm(list = ls())
+rm(list = ls())
 source("./code/requiredPackages.R")
 source("./code/regularisedZVCV.R")
 
