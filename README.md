@@ -18,7 +18,8 @@ This Github repository stores the code, data, and results of the study, submitte
 
 The repository hosts an R project, consisting of five main working folders:
 
-- code: where we store the code of the involved methods regularisedZVCV.R) and the experiments (experiment1.R, experiment2.R, experiment3.R) in the simulation study. Users should be able to run the code without additional effort as all required libraries have been included in the renv folder. The only requirement is the R version (R 4.4.1). Once you run each experimentID.R file, it will fetch the data/models from the corresponding files in data (dir) and model (dir) and save the results to results (dir). 
+- code: where we store the code of the involved methods regularisedZVCV.R) and the experiments (experiment1.R, experiment2.R, experiment3.R) in the simulation study.
+Users should be able to run the code without additional effort as all required libraries have been included in the renv folder. If that does not work, they could install the required packages listed on requiredPackages.R. The only additional requirement is the R version (R 4.4.1). Once you run each experimentID.R file, it will fetch the data/models from the corresponding files in data (dir) and model (dir) and save the results to results (dir). 
 - renv: where we store the installed package.
 - data: where we store the required data in json format.
 - model: where we store Stan code for the models in the simulation study.
