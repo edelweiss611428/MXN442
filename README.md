@@ -20,5 +20,5 @@ The repository hosts an R project, consisting of five main working folders:
 - renv: where we store the installed package.
 - data: where we store the required data in json format.
 - model: where we store Stan code for the models in the simulation study.
-- results: where we store the simulation study results for the three experiments in the simulation study. note that the results for the first experiment are not available at 11:26 27/10/2024 due to being deleted accidentally (rm(list = ls()) and will be recovered soon.
+- results: where we store the simulation study results for the three experiments in the simulation study. note that the results for the experiment1 are not available at 11:26 27/10/2024 due to being deleted accidentally (rm(list = ls()) and will be recovered soon.
 
